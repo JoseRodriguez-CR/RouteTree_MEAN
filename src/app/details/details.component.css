@@ -1,6 +1,6 @@
-.container{
+.detailsContainer{
     padding: 30px;
     width: 90%;
-    border: 2px solid orange;
+    border: 2px solid rgb(6, 153, 55);
     border-radius: 10px;
 }
